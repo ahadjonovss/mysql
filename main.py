@@ -1,6 +1,6 @@
 import mysql.connector
 
-
+#Salom bu test branchdan
 class Student:
     def __init__(self, name, rating, dateOfBirth):
         self.name = name
